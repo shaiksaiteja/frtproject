@@ -32,7 +32,7 @@ This is a web based application developed for Shopping different products in onl
 ![Screenshot 2022-03-07 090859](https://user-images.githubusercontent.com/98517345/156963803-135e9564-ca95-458e-9074-0d7aa2f7d586.jpg)
 
 
-### Privacy policy -
+### Privacy policy ##
 
 
 ![Screenshot 2022-03-07 090943](https://user-images.githubusercontent.com/98517345/156963849-e8ead038-b9ea-4320-9165-9f99cf00d9d2.jpg)
@@ -41,7 +41,7 @@ This is a web based application developed for Shopping different products in onl
 
 ## Tech Stack 💻
 
-- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
+- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/) --- For Website Hosting
 - HTML
 - CSS
 - Bootstrap
