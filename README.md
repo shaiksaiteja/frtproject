@@ -1,3 +1,5 @@
+# ✨frtproject:  Future Ready Talent project by Shaik Saiteja✨
+
 # ✨Smart Shop  ✨
 
 This is a web based application developed for Shopping different products in online based website in india
@@ -5,7 +7,7 @@ This is a web based application developed for Shopping different products in onl
 ### This web based Ecommerce application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** - http://teluguhealth.southindia.cloudapp.azure.com/
+**website Link** - https://black-pond-0206c1210.2.azurestaticapps.net/
 
 
 ## Features and Functionalities 😃
@@ -17,31 +19,37 @@ This is a web based application developed for Shopping different products in onl
 - User can buy the product from home through this website.
 - Included the feedback Survey form to increase the scope of improvement. 
 
-## Screenshots
-
- 📸![Screenshot 2022-03-07 090754](https://user-images.githubusercontent.com/98517345/156963750-f5d694b6-a371-4b41-817f-22c8291b37da.jpg)
-
+## Home Page
+![home1](https://user-images.githubusercontent.com/109669265/193396545-38c2ed0c-f75d-455f-b954-c71def63cf1b.png)
 
 
-   
-
-### About Us -
-
+### mens wear-
+![mens](https://user-images.githubusercontent.com/109669265/193396589-45315de0-d58a-4423-ac95-a9d4a01bde6c.png)
 
 
-![Screenshot 2022-03-07 090859](https://user-images.githubusercontent.com/98517345/156963803-135e9564-ca95-458e-9074-0d7aa2f7d586.jpg)
+### womens wear ##
+![women](https://user-images.githubusercontent.com/109669265/193396605-0727cce8-1408-488c-8b79-a39e2dbdb22e.png)
 
 
-### Privacy policy ##
+### Electronics ##
+![elec](https://user-images.githubusercontent.com/109669265/193396622-083c5b40-2bd8-458e-8b33-136ad020953b.png)
 
 
-![Screenshot 2022-03-07 090943](https://user-images.githubusercontent.com/98517345/156963849-e8ead038-b9ea-4320-9165-9f99cf00d9d2.jpg)
+### Contact us ##
+![contact](https://user-images.githubusercontent.com/109669265/193396632-dd916fd2-346e-4759-bd04-c4f6eecc0edd.png)
 
+
+### Login/Register ##
+![login](https://user-images.githubusercontent.com/109669265/193396639-2fd0c1e4-cee6-41b0-8845-43e72c7c886f.png)
+
+
+### azure portal screenshot ##
+![azportal](https://user-images.githubusercontent.com/109669265/193396769-878a280f-3186-4253-b654-2206a2b7a2ea.png)
 
 
 ## Tech Stack 💻
 
-- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/) --- For Website Hosting
+- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/) --- For Static Website Hosting
 - HTML
 - CSS
 - Bootstrap
